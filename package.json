@@ -1,0 +1,23 @@
+{
+  "name": "apiportfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osicodes/apiPortfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osicodes/apiPortfolio/issues"
+  },
+  "homepage": "https://github.com/osicodes/apiPortfolio#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
